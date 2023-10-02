@@ -1,2 +1,4 @@
 # VR-Chat
-create scenes of VRc
+Step1
+create account of VRc & download Unity Hub
+Download VRchat World SDk
